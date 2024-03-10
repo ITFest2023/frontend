@@ -2,7 +2,8 @@
 const COLORS = {
     "REGISTERED": "blue",
     "ONLINE": "green",
-    "OFFLINE": "#FF7F7F"
+    // "OFFLINE": "#FF7F7F"
+    "OFFLINE": "gray"
 }
 
 const useSVGPin = () => {
